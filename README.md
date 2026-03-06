@@ -19,6 +19,6 @@ Academic news system with email notifications. Demonstrates the use of **Singlet
 
 - **Backend:** PHP
 - **Frontend:** HTML and CSS
-- **Database:** MySQL (or SQLite if using local setup)
+- **Database:** MySQL
 - **Email Sending:** PHPMailer
 - **Design Patterns:** Singleton, Factory Method
